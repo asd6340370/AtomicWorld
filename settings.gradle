@@ -1,0 +1,1 @@
+include ':app', ':atomic_annotation', ':atomic_compiler', ':atomic_core', ':atomic_garden'
